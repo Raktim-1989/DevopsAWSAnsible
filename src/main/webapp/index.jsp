@@ -1,3 +1,3 @@
 <h1> RAKTIM DEVOPS GUIDE</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines TRIGERRING A PIPELINE</h2>
+<h2> Learn docker, K8s, Ansible  +  CI/CD pipelines + CI + CD</h2>
 <h2> DEMO Has been completed by raktim, thanks </h2>
